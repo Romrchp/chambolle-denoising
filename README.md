@@ -1,4 +1,4 @@
-# CS-439: Image Denoising Using a Chambolle Scheme with Isotropic and Anisotropic Total Variations
+# Image Denoising Using a Chambolle Scheme with Isotropic and Anisotropic Total Variations
 
 The goal of this project is to use the Chambolle dual algorithm with an isotropic and anisotropic total variation regularization to perform denoising on sample images. The results are then be compared according to the choices of the hyperparameters via analysis of some image quality metrics.
 
