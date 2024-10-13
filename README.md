@@ -8,6 +8,8 @@ This repository includes :
 
 - [final_notebook.ipynb](final_notebook.ipynb) : Main Python notebook including our new implementation, the tests and the different experiments conducted, as well as the results obtained in the report. Also contains additional important elements not kept in the report due to space management, that follow the flow of the report.
 
+- [chambolle_denoising_report.pdf](chambolle_denoising_report.ipynb) : 3-pages PDF report of the project. Details the mathematical background & work perform for adaptation of the algorithm, as well as the main results.
+
 
 - [background_notebooks](background-notebooks) : This folder includes several notebooks, that have been used as inspiration for the project as well some additional experiences.
   - [ForwardDualBackward.ipynb](background-notebooks/ForwardDualBackward.ipynb) : Implements the Chambolle dual algorithm with only isotropic total variation regularization. The original notebook can be found at [https://github.com/gnthibault/Optimisation-Python/blob/master/ForwardBackwardDual.ipynb], please refer to the references section for full detail.
