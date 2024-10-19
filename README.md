@@ -6,17 +6,17 @@ The goal of this project is to use the Chambolle dual algorithm with an isotropi
 
 This repository includes :
 
-- [final_notebook.ipynb](final_notebook.ipynb) : Main Python notebook including our new implementation, the tests and the different experiments conducted, as well as the results obtained in the report. Also contains additional important elements not kept in the report due to space management, that follow the flow of the report.
+- 📒 [final_notebook.ipynb](final_notebook.ipynb) : Main Python notebook including our new implementation, the tests and the different experiments conducted, as well as the results obtained in the report. Also contains additional important elements not kept in the report due to space management, that follow the flow of the report.
 
-- [chambolle_denoising_report.pdf](chambolle_denoising_report.pdf) : 3-pages PDF report of the project. Details the mathematical background & work perform for adaptation of the algorithm, as well as the main results.
+- 📖 [chambolle_denoising_report.pdf](chambolle_denoising_report.pdf) : 3-pages PDF report of the project. Details the mathematical background & work perform for adaptation of the algorithm, as well as the main results.
 
 
-- [background_notebooks](background-notebooks) : This folder includes several notebooks, that have been used as inspiration for the project as well some additional experiences.
-  - [ForwardDualBackward.ipynb](background-notebooks/ForwardDualBackward.ipynb) : Implements the Chambolle dual algorithm with only isotropic total variation regularization. The original notebook can be found at [https://github.com/gnthibault/Optimisation-Python/blob/master/ForwardBackwardDual.ipynb], please refer to the references section for full detail.
+- 📂 [background_notebooks](background-notebooks) : This folder includes several notebooks, that have been used as inspiration for the project as well some additional experiences.
+  - 📒 [ForwardDualBackward.ipynb](background-notebooks/ForwardDualBackward.ipynb) : Implements the Chambolle dual algorithm with only isotropic total variation regularization. The original notebook can be found at [https://github.com/gnthibault/Optimisation-Python/blob/master/ForwardBackwardDual.ipynb], please refer to the references section for full detail.
 
-  - [Discrete-d.ipynb](background_notebooks/Discrete-d.ipynb) : This noteboo presents and details the discrete gradient operator used in the algorithm, introduced from `ForwardDualBackward.ipynb`.
+  - 📒 [Discrete-d.ipynb](background_notebooks/Discrete-d.ipynb) : This noteboo presents and details the discrete gradient operator used in the algorithm, introduced from `ForwardDualBackward.ipynb`.
 
-  - [background-work.ipynb](background-notebooks/background-work.ipynb) : Additionnal experiences that do not appear in the report.
+  - 📒 [background-work.ipynb](background-notebooks/background-work.ipynb) : Additionnal experiences that do not appear in the report.
 
 ## Prerequisites :
 
@@ -47,7 +47,7 @@ isotropic tv for segmentation under blur and poisson noise,” 2023. [https://ww
 
 ### Code reference :
 
-- `ForwardBackwardDual.ipynb`, found and obtainable at [https://github.com/gnthibault/Optimisation-Python]. This public repository contains several basic optimisation algorithms, ranging from Support Vector Machines to Image denoising. The notebooks it contains were made and modified by :
+- 📒 `ForwardBackwardDual.ipynb`, found and obtainable at [https://github.com/gnthibault/Optimisation-Python]. This public repository contains several basic optimisation algorithms, ranging from Support Vector Machines to Image denoising. The notebooks it contains were made and modified by :
   -  Gabriel Peyré, CNRS, DMA, Ecole Normale Supérieure [https://scholar.google.fr/citations?user=KqA1dYcAAAAJ&hl=en]
   - Laurent Condat, Senior Research Scientist, King Abdullah University of Science and Technology (KAUST), Saudi Arabia. [https://scholar.google.com/citations?user=mfBA5f8AAAAJ&hl=fr]
 
